@@ -1,0 +1,41 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    max-height: 100vh;
+    background: silver;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: auto;
+    margin: 2rem auto;
+    padding: 3rem;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 500px;
+    border: 1px solid black; 
+}
+
+.salary-type {
+    margin: 0.5rem;
+}
+
+.cas .cass .impozit .salariu-final {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.btn-primary {
+    margin-top: 2rem;
+}
+
+table {
+    margin: auto;
+}
